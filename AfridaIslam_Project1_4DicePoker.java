@@ -1,4 +1,4 @@
-package wk4_arrays;
+package project1;
 
 import java.util.Arrays;
 import java.util.Random;
